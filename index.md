@@ -2,7 +2,7 @@
 
 ### TARBIAH SEORANG GURU SUFI
 
-# Seorang murid berbincang dengan seorang Guru Sufi:
+#### Seorang murid berbincang dengan seorang Guru Sufi:
 
 “Guru, saya tidak mahu ikut pengajian ini lagi”.
 
