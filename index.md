@@ -42,7 +42,7 @@ Ketika kita mengarahkan pandangan kita kepada Nur Allah yang kita imani, maka:
 4. Kita akan menolong orang lain dan fokus pada langkah kita menggapai Nur-Nya
 ```
 
-Direndahkan tidak mungkin jadi sampah, disanjung tidak mungkin jadi rembulan. Maka jangan risaukan cakap-cakap orang, sebab setiap orang membacamu dengan pemahaman dan pengalaman yang berbeza.
+`Direndahkan tidak mungkin jadi sampah, disanjung tidak mungkin jadi rembulan. Maka jangan risaukan cakap-cakap orang, sebab setiap orang membacamu dengan pemahaman dan pengalaman yang berbeza.`
 
 Teruslah melangkah selama engkau di jalan yang benar, meski terkadang kebaikan tidak selalu dihargai.
 
