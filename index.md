@@ -30,6 +30,8 @@ Setelah selesai, dia berkata kepada Sang Guru Sufi bahawa dia siap untuk pergi.
 
 Begitulah dengan kehidupan kita.
 
+**Bold** and _Italic_ and `Code` text
+
 Ketika kita mengarahkan pandangan kita kepada Nur Allah yang kita imani, maka:
 
 1. Kita tidak akan punya waktu untuk melihat kesalahan orang lain
