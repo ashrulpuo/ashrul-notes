@@ -1,6 +1,6 @@
 # Bercerita soal hidup 
 
-### TARBIAH SEORANG GURU SUFI
+`TARBIAH SEORANG GURU SUFI`
 
 #### Seorang murid berbincang dengan seorang Guru Sufi:
 
@@ -30,8 +30,7 @@ Setelah selesai, dia berkata kepada Sang Guru Sufi bahawa dia siap untuk pergi.
 
 Begitulah dengan kehidupan kita.
 
-**Bold** and _Italic_ and `Code` text
-
+```markdown
 Ketika kita mengarahkan pandangan kita kepada Nur Allah yang kita imani, maka:
 
 1. Kita tidak akan punya waktu untuk melihat kesalahan orang lain
@@ -41,6 +40,7 @@ Ketika kita mengarahkan pandangan kita kepada Nur Allah yang kita imani, maka:
 3. Kita tidak akan punya waktu untuk bergosip ria dengan orang lain
 
 4. Kita akan menolong orang lain dan fokus pada langkah kita menggapai Nur-Nya
+```
 
 Direndahkan tidak mungkin jadi sampah, disanjung tidak mungkin jadi rembulan. Maka jangan risaukan cakap-cakap orang, sebab setiap orang membacamu dengan pemahaman dan pengalaman yang berbeza.
 
