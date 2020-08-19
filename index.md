@@ -1,12 +1,8 @@
-## Bercerita soal hidup 
+# Bercerita soal hidup 
 
 ### TARBIAH SEORANG GURU SUFI
 
-# Header 1
-## Header 2
-### Header 3
-
-Seorang murid berbincang dengan seorang Guru Sufi:
+# Seorang murid berbincang dengan seorang Guru Sufi:
 
 “Guru, saya tidak mahu ikut pengajian ini lagi”.
 
@@ -60,4 +56,4 @@ Semoga menjadi lebih baik dan lebih bermanfaat.
 
 ### Contact
 
-for web development [contact ashrul](https://github.com/ashrulpuo)
+for web development [contact ashrul](https://github.com/ashrulpuo) 
