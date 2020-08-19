@@ -1,11 +1,6 @@
-## Welcome to GitHub Pages
+## Bercerita soal hidup 
 
-You can use the [editor on GitHub](https://github.com/ashrulpuo/my-notes/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
+### TARBIAH SEORANG GURU SUFI
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
@@ -15,23 +10,55 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
+Seorang murid berbincang dengan seorang Guru Sufi:
 
-1. Numbered
-2. List
+“Guru, saya tidak mahu ikut pengajian ini lagi”.
 
-**Bold** and _Italic_ and `Code` text
+“Apa alasannya?”, tanya Sang Guru Sufi.
 
-[Link](url) and ![Image](src)
-```
+“Saya lihat di pengajian ini perempuannya suka bergossip, laki-lakinya munafik, pengurusnya cara hidupnya tidak benar, jamaahnya sibuk dengan dunianya, dan sebagainya”.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+“Baiklah. Tapi sebelum kau pergi, tolong lakukan sesuatu untukku. Ambil segelas penuh air dan berjalanlah mengelilingi luar serta dalam masjid ini tanpa menumpahkan setitis air sekalipun ke lantai. Setelah itu engkau boleh meninggalkan masjid ini seperti keinginanmu.”
 
-### Jekyll Themes
+“Itu mudah sekali!”
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ashrulpuo/my-notes/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Dia pun segera melakukan apa yang diminta Sang Guru Sufi, sementara pengajian sedang berlangsung.
 
-### Support or Contact
+Setelah selesai, dia berkata kepada Sang Guru Sufi bahawa dia siap untuk pergi.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+“Sebelum kau pergi, ada satu pertanyaan. Ketika kau tadi berjalan keliling luar serta dalam masjid, apa engkau mendengar orang bergosip, melihat orang munafik, melihat orang sibuk dengan dunianya?”
+
+“Tidak.”
+
+“Engkau tahu mengapa?”
+
+“Tidak.”
+
+“Kerana engkau fokus pada gelasmu, memastikan tidak tersandung dan tidak ada air yang tumpah.”
+
+Begitulah dengan kehidupan kita.
+
+Ketika kita mengarahkan pandangan kita kepada Nur Allah yang kita imani, maka:
+
+1. Kita tidak akan punya waktu untuk melihat kesalahan orang lain
+
+2. Kita tidak akan punya waktu untuk menilai dan mengkritik orang lain.
+
+3. Kita tidak akan punya waktu untuk bergosip ria dengan orang lain
+
+4. Kita akan menolong orang lain dan fokus pada langkah kita menggapai Nur-Nya
+
+Direndahkan tidak mungkin jadi sampah, disanjung tidak mungkin jadi rembulan. Maka jangan risaukan cakap-cakap orang, sebab setiap orang membacamu dengan pemahaman dan pengalaman yang berbeza.
+
+Teruslah melangkah selama engkau di jalan yang benar, meski terkadang kebaikan tidak selalu dihargai.
+
+Tidak usah sibuk menjelaskan tentang dirimu, sebab yang menyukaimu tidak perlu itu dan yang membencimu tidak percaya itu.
+
+Hidup bukan tentang siapa yang terbaik, tapi tentang siapa yang mahu berbuat baik.
+
+Jika dizalimi orang jangan berpikir untuk membalas dendam, tapi berpikirlah cara membalas dengan kebaikan.
+
+Jangan mengeluh, teruslah berdoa dan ikhtiar. Sibukkan diri dalam kebaikan hingga keburukan lelah mengikutimu.
+
+Semoga menjadi lebih baik dan lebih bermanfaat.
+
