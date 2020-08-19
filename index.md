@@ -58,4 +58,4 @@ Semoga menjadi lebih baik dan lebih bermanfaat.
 
 ### Contact
 
-for web development [contact ashrul](https://github.com/ashrulpuo) 
+for web development [contact ashrul](https://github.com/ashrulpuo) +(60) 18-4620843
