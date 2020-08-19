@@ -58,6 +58,6 @@ Jangan mengeluh, teruslah berdoa dan ikhtiar. Sibukkan diri dalam kebaikan hingg
 
 Semoga menjadi lebih baik dan lebih bermanfaat.
 
-### Support or Contact
+### Contact
 
-[contact ashrul](https://github.com/ashrulpuo)
+for web development [contact ashrul](https://github.com/ashrulpuo)
