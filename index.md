@@ -10,6 +10,8 @@
 
 “Saya lihat di pengajian ini perempuannya suka bergossip, laki-lakinya munafik, pengurusnya cara hidupnya tidak benar, jamaahnya sibuk dengan dunianya, dan sebagainya”.
 
+<img src="images/nasihat.jpg" alt="hi" class="inline"/>
+
 “Baiklah. Tapi sebelum kau pergi, tolong lakukan sesuatu untukku. Ambil segelas penuh air dan berjalanlah mengelilingi luar serta dalam masjid ini tanpa menumpahkan setitis air sekalipun ke lantai. Setelah itu engkau boleh meninggalkan masjid ini seperti keinginanmu.”
 
 “Itu mudah sekali!”
