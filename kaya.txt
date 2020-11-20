@@ -1,0 +1,21 @@
+kaya
+-----
+
+Biasanya kita sangka dan kata orang kaya ialah orang yang banyak duit, banyak harta. Benarkah kalau kita sangka begini?
+Maksud kaya yang sebenar ialah tidak berhajat pada sesiapa pun. Ya, tidak berhajat kepada sesiapa pun…
+
+Manusia ini banyak mana pun hartanya, besar mana pun pangkatnya, dia tetap berhajatkan sesuatu. 
+
+Dia berhajat pada makan, berhajat pada minum, berhajat pada udara, berhajat pada rumah untuk berlindung, berhajat pada pakaian, berhajat untuk 
+sihat dan lain-lain hajat lagi. 
+
+Lagi banyak harta seseorang lagi banyak hajat dia…
+
+Walaupun nampak manusia itu kaya, sebenarnya dia tetap fakir dan tetap berhajat pada ALLAH SWT. 
+ALLAH lah sebenar-benarnya Kaya. Kayanya ALLAH tidak berhajat pada sesuatu. Malah setiap rezeki makhluk diadakan dan diberi oleh Allah. 
+Ini berlaku dengan tidak berkurangan sedikit pun perbendaharaan Allah, SubhanAllah Al ‘Azim.
+
+moga bermanfaat
+
+docker exec -it php7.fpm php /var/www/projects/dosm-statsdigital/yii mongodb-migrate/up
+
