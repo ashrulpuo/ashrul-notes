@@ -16,6 +16,3 @@ ALLAH lah sebenar-benarnya Kaya. Kayanya ALLAH tidak berhajat pada sesuatu. Mala
 Ini berlaku dengan tidak berkurangan sedikit pun perbendaharaan Allah, SubhanAllah Al ‘Azim.
 
 moga bermanfaat
-
-docker exec -it php7.fpm php /var/www/projects/dosm-statsdigital/yii mongodb-migrate/up
-
