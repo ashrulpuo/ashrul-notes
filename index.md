@@ -1,5 +1,3 @@
-# Bercerita soal hidup 
-
 `TARBIAH SEORANG GURU SUFI`
 
 #### Seorang murid berbincang dengan seorang Guru Sufi:
